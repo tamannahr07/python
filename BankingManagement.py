@@ -1,7 +1,7 @@
 
 print("=====================================")
 
-customerNames = ['Jane Smith', 'Iason Jordan', 'David Morgan', 'Brain John', 'Jack Swift']
+customerNames = ['Tanu', 'Shubham', 'Nisha', 'Arin', 'Arsh']
 customerPins = ['0123', '2575', '7275', '2312', '5049']
 customerBalances = [10000, 20000, 20000, 40000, 10000]
 deposition = 0
